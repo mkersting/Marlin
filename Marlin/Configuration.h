@@ -713,8 +713,8 @@
  */
 //#define ENDSTOP_NOISE_THRESHOLD 7
 
-// Check for stuck or disconnected endstops during homing moves.
- #define DETECT_BROKEN_ENDSTOP
+// Check for stuck or disconnected endstops during homing moves.+
+ //#define DETECT_BROKEN_ENDSTOP
 
 //=============================================================================
 //============================== Movement Settings ============================
